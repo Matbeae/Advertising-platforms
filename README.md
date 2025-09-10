@@ -4,7 +4,7 @@
 ## Требования
 
 * Windows
-* Visual Studio (2019/2022) с поддержкой **.NET Framework (4.7.2 или выше)**
+* Visual Studio с поддержкой **.NET Framework (4.7.2 или выше)**
 * Postman или curl для проверки запросов
 
 ## Установка и запуск
